@@ -1,0 +1,102 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+    font-weight: 900;
+    color:rgb(231, 87, 87);
+}
+
+h2{
+    text-align: center;
+    font-family:fantasy;
+    font-size: xx-large;
+    font-weight: 500;
+    color: rgb(216, 104, 96);
+    text-decoration-thickness: 200;
+}
+
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    color:firebrick;
+    font-weight: 400;
+}
+
+body{
+    background-color: rgb(209, 144, 176);
+    background-position:center;
+    background-size:cover;
+    background-repeat:none;
+    height: 100;
+}
+
+hr{
+    text-decoration: none;
+}
+
+p{
+    font-family:fantasy;
+    font-size:x-large;
+    font-style:oblique;
+    color:black;
+    font-weight: 300;
+}
+
+h4{
+    font-family: cursive;
+    font-weight: 500;
+    font-style: italic;
+    color: black;
+}
+
+h5{
+    font-family: cursive;
+    font-weight: 500;
+    font-style: italic;
+    color: black;
+}
+
+h3{
+    font-family: cursive;
+    font-weight: 500;
+    font-style: italic;
+    color: black;  
+}
+
+header{
+    background-color: rgb(209, 144, 176);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style:oblique;
+    color: black;    
+}
+
+#p5{
+    font-family: cursive;
+    font-weight: 500;
+    font-style: italic;
+    color: black;     
+}
+
+video{
+    width: 80%;
+    border: 5px solid sienna;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+li{
+    margin: 10px;
+    padding: 5px;
+    text-align:center;
+    font-size: large;
+}
+ol{
+    margin: 10px;
+    padding: 5px;
+    text-align:center;
+    font-size: large;
+}
+
+
